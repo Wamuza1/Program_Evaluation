@@ -6,14 +6,18 @@
 - Create a sound model that can maintain the prediction at any given data segment.
 - Recommend possible solutions the business can follow and act on to generate user engagement.
 
+
+![Analytical_table](https://user-images.githubusercontent.com/92646311/198361154-bc4f2d65-1051-4cda-b304-5909da57a53d.png)
+
+
 # Question
 
-** Descriptive **
+**Descriptive**
 - What is the average time spent by students?
 - Does user registration time and country effect engagement?
 - Which browser had the most time spent by students?  
 
-** Predictive **
+**Predictive**
 - Which program will be more prevalent to increase user engagement?
 - Will a particular user be more inclined to benefit from binge/drip program than another?
 - What is likely to be the best browser to prescribe students? 
